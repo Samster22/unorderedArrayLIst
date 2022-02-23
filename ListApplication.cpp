@@ -14,6 +14,8 @@ L.ShowData ();
 L.Delete (15); 
 L.ShowData ();
 L.Insert(30); L.Insert(50); L.Delete (10); 
+L.Insert(45); L.Insert(12);
+L.Delete(45;
 L.ShowData (); 
 
 
